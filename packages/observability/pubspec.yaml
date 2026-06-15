@@ -1,8 +1,8 @@
 name: observability
 description: Observability primitives for Celest services with logging, metrics, and tracing helpers.
 version: 0.1.0
-homepage: https://celest.dev
-repository: https://github.com/celest-dev/celest/tree/main/packages/observability
+homepage: https://github.com/celest-community/celest
+repository: https://github.com/celest-community/celest/tree/main/packages/observability
 
 environment:
   sdk: ^3.8.0

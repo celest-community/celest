@@ -100,7 +100,7 @@ set celestLocalPath(String? value) {
   _celestLocalPath = value;
 }
 
-/// The path to the local checkout of the `celest-dev/celest` repo, if set.
+/// The path to the local checkout of the `celest-community/celest` repo, if set.
 String? get celestLocalPath {
   if (_celestLocalPath case final localPathOverride?) {
     return localPathOverride;

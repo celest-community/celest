@@ -1,4 +1,4 @@
-name: celest_dev
+name: celest_community
 
 packages:
   - apps/**
@@ -31,3 +31,4 @@ scripts:
   fix:
     description: Fix linter errors in all packages.
     exec: dart fix --apply
+sdkPath: .fvm/flutter_sdk

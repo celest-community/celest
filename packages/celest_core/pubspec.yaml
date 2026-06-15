@@ -1,8 +1,8 @@
 name: celest_core
 description: Celest types and utilities shared between the client and the cloud.
 version: 1.0.4
-homepage: https://celest.dev
-repository: https://github.com/celest-dev/celest/tree/main/packages/celest_core
+homepage: https://github.com/celest-community/celest
+repository: https://github.com/celest-community/celest/tree/main/packages/celest_core
 
 environment:
   sdk: ^3.7.0
