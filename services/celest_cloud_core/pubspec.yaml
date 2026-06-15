@@ -1,8 +1,8 @@
 name: celest_cloud_core
 description: Core types and utilities for Celest Cloud services.
 version: 0.1.1
-homepage: https://celest.dev
-repository: https://github.com/celest-dev/celest/tree/main/services/celest_cloud_core
+homepage: https://github.com/celest-community/celest
+repository: https://github.com/celest-community/celest/tree/main/services/celest_cloud_core
 
 environment:
   sdk: ^3.5.0

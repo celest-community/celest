@@ -11,7 +11,7 @@ This repository contains the source code for many components of Celest, a projec
 To get started contributing to Celest, clone the repository using the `git clone` command:
 
 ```bash
-$ git clone https://github.com/celest-dev/celest.git
+$ git clone https://github.com/celest-community/celest.git
 ```
 
 ### Submitting a Pull Request
@@ -28,6 +28,5 @@ For example, a pull request that adds a new feature to Celest Auth should have a
 
 ### Want to Learn More?
 
-An AI-generated overview of the project architecture is available at [deepWiki](https://deepwiki.com/celest-dev/celest/1-overview).
-The site includes an interactive chat assistant to help answer your questions.
-_Disclaimer: This tool is community-generated and not officially maintained by the Celest team._
+This is a community-maintained fork of the original Celest project.
+For discussion and help, open an issue or discussion in this repository.

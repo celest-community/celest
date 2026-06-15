@@ -1,7 +1,7 @@
 name: celest_cloud
 description: API contracts and Dart clients for the Celest Cloud platform.
 version: 0.1.10
-repository: https://github.com/celest-dev/celest
+repository: https://github.com/celest-community/celest
 
 environment:
   sdk: ^3.7.0

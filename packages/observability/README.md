@@ -85,6 +85,6 @@ A runnable example that prints metrics and spans to stdout lives under
 
 ## Contributing
 
-File issues and PRs in the main [celest](https://github.com/celest-dev/celest)
+File issues and PRs in the main [celest](https://github.com/celest-community/celest)
 repository. Please include relevant logs or traces when reporting
 observability-related bugs.
